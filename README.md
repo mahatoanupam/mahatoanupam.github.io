@@ -1,22 +1,24 @@
-# Anupam Mahato's Portfolio
+👋 Hi, I'm Anupam Mahato
 
-Welcome to my personal portfolio website repository.
+💡 I focus on Data Science, AI/ML, and Full-Stack Web Development — working on real-world projects and open-source tools that solve meaningful problems.
 
-This repository hosts my GitHub Pages website: [mahatoanupam.github.io](https://mahatoanupam.github.io).
+📌 Current interests:
 
-## About Me
+Building intelligent systems using Python, Pandas, Scikit-learn, and TensorFlow
 
-I am Anupam Mahato, a passionate software developer exploring AI, machine learning, and web development. This website showcases my projects, skills, and contact information.
+Creating responsive websites using HTML, CSS, TailwindCSS, and React
 
-## How to Use
+Writing technical blogs that explain complex ideas in a clear, accessible way
 
-- Visit [https://mahatoanupam.github.io](https://mahatoanupam.github.io) to see my portfolio live.
-- This repo contains the source code for my personal website.
 
-## Contact
+🚀 I share insights and project walkthroughs on my blog: anupammahato.netlify.app
 
-Feel free to reach out via email: [anupammahatocodes@gmail.com](mailto:anupammahatocodes@gmail.com)
+🔗 Connect with me:
 
----
+📂 Portfolio: mahatoanupam.github.io
 
-Thank you for visiting!
+📧 Email: anupammahatocodes@gmail.com
+
+📝 Medium: @mahatoanupam
+
+🐙 GitHub: mahatoanupam
