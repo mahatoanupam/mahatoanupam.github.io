@@ -17,15 +17,19 @@
 ---
 
 ### 📂 projects
-- **[stock price prediction model](#)** — lstm-based ai model for forecasting stock trends  
-- **[portfolio website](#)** — responsive react app styled with tailwindcss  
-- **[climate data analysis](#)** — comprehensive analysis and visualization of global climate data  
+- **stock price prediction model** — lstm-based ai model for forecasting stock trends  
+- **climate data analysis** — comprehensive analysis and visualization of global climate data  
+
+---
+
+### 🌐 portfolio website
+- [mahatoanupam.github.io](https://mahatoanupam.github.io)  
 
 ---
 
 ### 📫 connect
-- twitter: [@yourtwitterhandle](https://twitter.com/anupamsx)  
-- linkedin: [linkedin.com/in/mahatoanupam](https://linkedin.com/in/anupammahato)  
+- twitter: [@anupamsx](https://twitter.com/anupamsx)  
+- linkedin: [linkedin.com/in/anupammahato](https://linkedin.com/in/anupammahato)  
 - email: anupammahatocodes@gmail.com  
 
 ---
