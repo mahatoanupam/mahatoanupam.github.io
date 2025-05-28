@@ -24,8 +24,8 @@
 ---
 
 ### 📫 connect
-- twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)  
-- linkedin: [linkedin.com/in/mahatoanupam](https://linkedin.com/in/mahatoanupam)  
+- twitter: [@yourtwitterhandle](https://twitter.com/anupamsx)  
+- linkedin: [linkedin.com/in/mahatoanupam](https://linkedin.com/in/anupammahato)  
 - email: anupammahatocodes@gmail.com  
 
 ---
