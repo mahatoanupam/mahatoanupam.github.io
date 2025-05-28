@@ -1,24 +1,38 @@
-👋 Hi, I'm Anupam Mahato
+# anupam mahato 👋
 
-💡 I focus on Data Science, AI/ML, and Full-Stack Web Development — working on real-world projects and open-source tools that solve meaningful problems.
+### what i do
+- build data science and machine learning models to solve real-world problems  
+- develop full-stack web applications using react, node.js, and flask  
+- analyze and visualize complex datasets to extract actionable insights  
+- create clean, maintainable code with a focus on scalability and performance  
 
-📌 Current interests:
+---
 
-Building intelligent systems using Python, Pandas, Scikit-learn, and TensorFlow
+### 🚀 skills
+- python | javascript | sql  
+- react | node.js | flask  
+- pandas | numpy | scikit-learn | tensorflow  
+- git | docker | jupyter notebook  
 
-Creating responsive websites using HTML, CSS, TailwindCSS, and React
+---
 
-Writing technical blogs that explain complex ideas in a clear, accessible way
+### 📂 projects
+- **[stock price prediction model](#)** — lstm-based ai model for forecasting stock trends  
+- **[portfolio website](#)** — responsive react app styled with tailwindcss  
+- **[climate data analysis](#)** — comprehensive analysis and visualization of global climate data  
 
+---
 
-🚀 I share insights and project walkthroughs on my blog: anupammahato.netlify.app
+### 📫 connect
+- twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)  
+- linkedin: [linkedin.com/in/mahatoanupam](https://linkedin.com/in/mahatoanupam)  
+- email: anupammahatocodes@gmail.com  
 
-🔗 Connect with me:
+---
 
-📂 Portfolio: mahatoanupam.github.io
+### ⚡ fun fact  
+enjoys watching hindi shows and exploring new tech blogs  
 
-📧 Email: anupammahatocodes@gmail.com
+---
 
-📝 Medium: @mahatoanupam
-
-🐙 GitHub: mahatoanupam
+> "learning never exhausts the mind." — leonardo da vinci
